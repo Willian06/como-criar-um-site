@@ -10,3 +10,9 @@
     flex-direction: row;
     align-items: center;
 }
+ .titulo-corpo{
+    display: flex;
+    justify-content: center;
+
+
+ }
