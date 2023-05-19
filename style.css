@@ -1,78 +1,57 @@
-
-.cabeçalho{
-    background-color:#FF9E9E;
-    padding: 0px;
-    margin: 0px;
-    height: 250px;
-    background;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    align-items: center;
-}
- .titulo-corpo{
-    display: flex;
-    justify-content: center;
-
-
- }
-
- .div-imagem-p1 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size:30px ;
-    justify-content: space-around;
- }
- .div-imagem-p2 {
+.cabeçalho {   
+   background-color: #FF9E9E;
+   padding: 0px;
+   margin: 0px;
+   height: 250px;
+   background: ;
    display: flex;
+   justify-content: space-between;
+   flex-direction: row ;
    align-items: center;
-   text-align: center;
-   font-size: 30px;
-   justify-content: space-around;
-}
-.div-imagem-p3 { 
-   display: flex;
-   align-items: center;
-   text-align: center;
-   font-size: 30px;
-   justify-content: space-around;
-  
-}
-.div-imagem-2 {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-}
-.div-imagem-p4 {
-   display: flex;
-   align-items: center;
-   text-align: center;
-   font-size: 30px;
-   justify-content: space-around;
-
-}
-.div-imagem-p5 {
-   display: flex;
-   align-items: center;
-   text-align: center;
-   font-size: 30px;
-   justify-content: space-around;
-}
-.div-imagem-p6 {
-   display: flex;
-   align-items: center;
-   text-align: center;
-   font-size: 30px;
-   justify-content: space-around;
-}
-
-.título-corpo{
-    display: flex;
-    justify-content: center;
-}
-.footer{
-   display: flex;
-   justify-content: space-around;
-   align-items: center;
-}
+   
+   }
+   
+   .titulo-corpo {
+       display: flex;
+       justify-content: center;
+   
+   }
+   
+   .div-imagem-p1 {
+       display: flex;
+       align-items: center;
+       text-align: center;
+       font-size: 25px;
+       justify-content: space-around;
+   }
+   
+   .p2-p3-p4-p5 {
+       display: flex;
+       align-items: center;
+       text-align: center;
+       font-size: 25px;
+       justify-content: center;
+       flex-direction: column;
+   }
+   
+   .imagem2 {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+   }
+   
+   .p6-p7-p8 {
+       display: flex;
+       align-items: center;
+       text-align: center;
+       font-size: 25px;
+       justify-content: center;
+       flex-direction: column;
+   }
+   
+   footer {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       background-color: #FF9D9D;
+   }
