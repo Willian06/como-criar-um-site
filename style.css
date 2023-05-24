@@ -31,3 +31,10 @@
     background-color: #FF9E9E;
     display: flex;
   } 
+  .imagem-cabeçalho {
+    height: 170px;
+    left: 70px;
+    position: absolute;
+    width: 300px;
+    top: 17px;
+  }
