@@ -25,4 +25,9 @@
        justify-content: space-around;
    }
    
-   
+  .heder {
+    height: 250px;
+    align-items: center;
+    background-color: #FF9E9E;
+    display: flex;
+  } 
